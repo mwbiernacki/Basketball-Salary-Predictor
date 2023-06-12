@@ -1,0 +1,604 @@
+Player,Year,Salary,Tm
+LeBron James,2023,"$44,474,988",LAL
+Anthony Davis,2023,"$37,980,720",LAL
+D'Angelo Russell,2023,"$31,377,750",LAL
+Malik Beasley,2023,"$15,558,035",LAL
+Mo Bamba,2023,"$10,300,000",LAL
+Lonnie Walker IV,2023,"$6,479,000",LAL
+Rui Hachimura,2023,"$6,263,188",LAL
+Jarred Vanderbilt,2023,"$4,374,000",LAL
+Wenyen Gabriel,2023,"$1,878,720",LAL
+Dennis Schröder,2023,"$1,836,090",LAL
+Troy Brown Jr.,2023,"$1,836,090",LAL
+Austin Reaves,2023,"$1,563,518",LAL
+Max Christie,2023,"$1,017,781",LAL
+Shaquille Harrison,2023,,LAL
+Scotty Pippen Jr.,2023,,LAL
+Cole Swider,2023,,LAL
+Tristan Thompson,2023,,LAL
+,2023,,LAL
+Davon Reed,2023,"$1,902,133",LAL
+CJ McCollum,2023,"$33,333,333",NOP
+Brandon Ingram,2023,"$31,650,600",NOP
+Jonas Valančiūnas,2023,"$14,700,000",NOP
+Zion Williamson,2023,"$13,534,817",NOP
+Josh Richardson,2023,"$12,196,094",NOP
+Larry Nance Jr.,2023,"$9,672,727",NOP
+Jaxson Hayes,2023,"$6,803,012",NOP
+Dyson Daniels,2023,"$5,508,600",NOP
+Garrett Temple,2023,"$5,155,500",NOP
+Kira Lewis Jr.,2023,"$4,004,280",NOP
+Trey Murphy III,2023,"$3,206,520",NOP
+Willy Hernangómez,2023,"$2,443,581",NOP
+Herbert Jones,2023,"$1,785,000",NOP
+Naji Marshall,2023,"$1,782,621",NOP
+Jose Alvarado,2023,"$1,563,518",NOP
+E.J. Liddell,2023,,NOP
+Dereon Seabron,2023,,NOP
+Jalen Brunson,2023,"$27,733,332",NYK
+Julius Randle,2023,"$23,760,000",NYK
+Evan Fournier,2023,"$18,000,000",NYK
+Mitchell Robinson,2023,"$17,045,454",NYK
+Derrick Rose,2023,"$14,520,730",NYK
+Josh Hart,2023,"$12,960,000",NYK
+RJ Barrett,2023,"$10,900,635",NYK
+Isaiah Hartenstein,2023,"$7,804,879",NYK
+Obi Toppin,2023,"$5,348,280",NYK
+Immanuel Quickley,2023,"$2,316,240",NYK
+Quentin Grimes,2023,"$2,277,000",NYK
+Jericho Sims,2023,"$1,639,842",NYK
+Miles McBride,2023,"$1,563,518",NYK
+Isaiah Roby,2023,,NYK
+Trevor Keels,2023,,NYK
+DaQuan Jeffries,2023,,NYK
+Duane Washington Jr.,2023,,NYK
+Jalen Green,2023,"$9,441,840",HOU
+Jabari Smith Jr.,2023,"$8,882,640",HOU
+Jae'Sean Tate,2023,"$7,065,217",HOU
+Boban Marjanović,2023,"$4,101,478",HOU
+Alperen Şengün,2023,"$3,375,360",HOU
+Tari Eason,2023,"$3,359,160",HOU
+Kevin Porter Jr.,2023,"$3,217,631",HOU
+Usman Garuba,2023,"$2,471,160",HOU
+Josh Christopher,2023,"$2,372,160",HOU
+TyTy Washington Jr.,2023,"$2,210,040",HOU
+Frank Kaminsky,2023,"$1,836,090",HOU
+Kenyon Martin Jr.,2023,"$1,782,621",HOU
+Daishen Nix,2023,"$1,563,518",HOU
+D.J. Augustin,2023,"$333,333",HOU
+Willie Cauley-Stein,2023,,HOU
+Trevor Hudgins,2023,,HOU
+Darius Days,2023,,HOU
+,2023,,HOU
+John Wall,2023,"$47,345,760",HOU
+Derrick Favors,2023,"$10,183,800",HOU
+Danny Green,2023,"$9,710,528",HOU
+Justin Holiday,2023,"$6,292,440",HOU
+Maurice Harkless,2023,"$4,564,980",HOU
+Ty Jerome,2023,"$4,220,057",HOU
+Théo Maledon,2023,"$1,900,000",HOU
+Troy Williams,2023,"$122,741",HOU
+Donovan Mitchell,2023,"$30,913,750",CLE
+Jarrett Allen,2023,"$20,000,000",CLE
+Caris LeVert,2023,"$18,796,296",CLE
+Darius Garland,2023,"$8,920,795",CLE
+Evan Mobley,2023,"$8,478,720",CLE
+Cedi Osman,2023,"$7,426,088",CLE
+Isaac Okoro,2023,"$7,040,880",CLE
+Ricky Rubio,2023,"$5,853,659",CLE
+Dylan Windler,2023,"$4,037,278",CLE
+Danny Green,2023,"$2,000,000",CLE
+Dean Wade,2023,"$1,930,681",CLE
+Raul Neto,2023,"$1,836,090",CLE
+Robin Lopez,2023,"$1,836,090",CLE
+Lamar Stevens,2023,"$1,782,621",CLE
+Sam Merrill,2023,"$850,000",CLE
+Isaiah Mobley,2023,,CLE
+Mamadi Diakite,2023,,CLE
+,2023,,CLE
+Kevin Love,2023,"$28,942,830",CLE
+Zach LaVine,2023,"$37,096,500",CHI
+DeMar DeRozan,2023,"$27,300,000",CHI
+Nikola Vučević,2023,"$22,000,000",CHI
+Lonzo Ball,2023,"$19,534,884",CHI
+Alex Caruso,2023,"$9,030,000",CHI
+Patrick Williams,2023,"$7,775,400",CHI
+Coby White,2023,"$7,413,955",CHI
+Andre Drummond,2023,"$3,200,000",CHI
+Derrick Jones Jr.,2023,"$3,200,000",CHI
+Dalen Terry,2023,"$3,191,400",CHI
+Javonte Green,2023,"$1,815,677",CHI
+Ayo Dosunmu,2023,"$1,563,518",CHI
+Marko Simonovic,2023,"$1,563,518",CHI
+Patrick Beverley,2023,"$506,508",CHI
+Carlik Jones,2023,"$357,717",CHI
+Terry Taylor,2023,,CHI
+Justin Lewis,2023,,CHI
+,2023,,CHI
+Tony Bradley,2023,"$2,036,318",CHI
+Goran Dragić,2023,"$1,836,090",CHI
+Stephen Curry,2023,"$48,070,014",GSW
+Klay Thompson,2023,"$40,600,080",GSW
+Andrew Wiggins,2023,"$33,616,770",GSW
+Draymond Green,2023,"$25,806,468",GSW
+Gary Payton II,2023,"$8,300,000",GSW
+Kevon Looney,2023,"$8,000,000",GSW
+Jonathan Kuminga,2023,"$5,739,840",GSW
+Donte DiVincenzo,2023,"$4,500,000",GSW
+Jordan Poole,2023,"$3,901,399",GSW
+Moses Moody,2023,"$3,740,160",GSW
+Patrick Baldwin Jr.,2023,"$2,226,000",GSW
+JaMychal Green,2023,"$1,836,090",GSW
+Andre Iguodala,2023,"$1,836,090",GSW
+Ryan Rollins,2023,"$1,017,781",GSW
+Anthony Lamb,2023,"$253,254",GSW
+Ty Jerome,2023,,GSW
+Lester Quinones,2023,,GSW
+,2023,,GSW
+Mac McClung,2023,"$1,637,966",GSW
+Nikola Jokić,2023,"$33,047,803",DEN
+Jamal Murray,2023,"$31,650,600",DEN
+Michael Porter Jr.,2023,"$30,913,750",DEN
+Aaron Gordon,2023,"$19,690,909",DEN
+Kentavious Caldwell-Pope,2023,"$14,004,703",DEN
+Bruce Brown,2023,"$6,479,000",DEN
+Ish Smith,2023,"$4,725,000",DEN
+Jeff Green,2023,"$4,500,000",DEN
+Christian Braun,2023,"$2,808,600",DEN
+Zeke Nnaji,2023,"$2,617,800",DEN
+Vlatko Čančar,2023,"$2,234,359",DEN
+Peyton Watson,2023,"$2,193,960",DEN
+Thomas Bryant,2023,"$1,836,090",DEN
+DeAndre Jordan,2023,"$1,836,090",DEN
+Reggie Jackson,2023,"$580,373",DEN
+Collin Gillespie,2023,,DEN
+Jack White,2023,,DEN
+Jayson Tatum,2023,"$30,351,780",BOS
+Jaylen Brown,2023,"$28,741,071",BOS
+Al Horford,2023,"$26,500,000",BOS
+Malcolm Brogdon,2023,"$22,600,000",BOS
+Marcus Smart,2023,"$17,207,142",BOS
+Derrick White,2023,"$16,892,857",BOS
+Robert Williams,2023,"$10,937,502",BOS
+Danilo Gallinari,2023,"$6,479,000",BOS
+Grant Williams,2023,"$4,306,281",BOS
+Mike Muscala,2023,"$3,500,000",BOS
+Payton Pritchard,2023,"$2,239,200",BOS
+Luke Kornet,2023,"$2,133,278",BOS
+Blake Griffin,2023,"$1,836,090",BOS
+Sam Hauser,2023,"$1,637,966",BOS
+Mfiondu Kabengele,2023,,BOS
+JD Davison,2023,,BOS
+Justin Champagnie,2023,,BOS
+,2023,,BOS
+Demetrius Jackson,2023,"$92,857",BOS
+Shai Gilgeous-Alexander,2023,"$30,913,750",OKC
+Luguentz Dort,2023,"$15,277,778",OKC
+Chet Holmgren,2023,"$9,891,240",OKC
+Dario Šarić,2023,"$9,240,000",OKC
+Josh Giddey,2023,"$6,287,400",OKC
+Ousmane Dieng,2023,"$4,569,840",OKC
+Jalen Williams,2023,"$4,341,480",OKC
+Aleksej Pokusevski,2023,"$3,261,480",OKC
+Tre Mann,2023,"$3,046,200",OKC
+Jaylin Williams,2023,"$2,000,000",OKC
+Kenrich Williams,2023,"$2,000,000",OKC
+Jeremiah Robinson-Earl,2023,"$2,000,000",OKC
+Lindy Waters III,2023,"$1,927,896",OKC
+Isaiah Joe,2023,"$1,836,090",OKC
+Aaron Wiggins,2023,"$1,563,518",OKC
+Olivier Sarr,2023,,OKC
+Jared Butler,2023,,OKC
+,2023,,OKC
+Kemba Walker,2023,"$27,431,078",OKC
+JaMychal Green,2023,"$8,200,000",OKC
+David Nwaba,2023,"$5,022,000",OKC
+Sterling Brown,2023,"$3,000,000",OKC
+Marquese Chriss,2023,"$2,193,920",OKC
+Justin Jackson,2023,"$1,836,090",OKC
+Kyle Singler,2023,"$999,200",OKC
+Eugene Omoruyi,2023,"$555,402",OKC
+Gordon Hayward,2023,"$30,075,000",CHO
+Terry Rozier,2023,"$21,486,316",CHO
+Kelly Oubre Jr.,2023,"$12,600,000",CHO
+LaMelo Ball,2023,"$8,623,920",CHO
+Cody Martin,2023,"$7,000,000",CHO
+P.J. Washington,2023,"$5,808,435",CHO
+James Bouknight,2023,"$4,362,240",CHO
+Mark Williams,2023,"$3,722,040",CHO
+Kai Jones,2023,"$2,909,040",CHO
+Svi Mykhailiuk,2023,"$1,836,090",CHO
+Dennis Smith Jr.,2023,"$1,836,090",CHO
+Nick Richards,2023,"$1,782,621",CHO
+JT Thor,2023,"$1,563,518",CHO
+Bryce McGowens,2023,"$1,075,000",CHO
+Kobi Simmons,2023,,CHO
+Théo Maledon,2023,,CHO
+Xavier Sneed,2023,,CHO
+,2023,,CHO
+Reggie Jackson,2023,"$11,215,260",CHO
+Nicolas Batum,2023,"$8,856,969",CHO
+Jaren Jackson Jr.,2023,"$28,946,605",MEM
+Steven Adams,2023,"$17,926,829",MEM
+Tyus Jones,2023,"$15,000,000",MEM
+Luke Kennard,2023,"$14,415,545",MEM
+Ja Morant,2023,"$12,119,440",MEM
+Dillon Brooks,2023,"$11,400,000",MEM
+Ziaire Williams,2023,"$4,591,680",MEM
+Brandon Clarke,2023,"$4,343,920",MEM
+Jake LaRavia,2023,"$3,047,640",MEM
+David Roddy,2023,"$2,588,640",MEM
+John Konchar,2023,"$2,300,000",MEM
+Desmond Bane,2023,"$2,130,240",MEM
+Santi Aldama,2023,"$2,094,120",MEM
+Xavier Tillman Sr.,2023,"$1,782,621",MEM
+Jacob Gilyard,2023,,MEM
+Kenneth Lofton Jr.,2023,,MEM
+Vince Williams Jr.,2023,,MEM
+,2023,,MEM
+Kennedy Chandler,2023,"$1,200,000",MEM
+Trae Young,2023,"$37,096,500",ATL
+John Collins,2023,"$23,500,000",ATL
+Clint Capela,2023,"$18,706,896",ATL
+Bogdan Bogdanović,2023,"$18,000,000",ATL
+Dejounte Murray,2023,"$16,571,120",ATL
+De'Andre Hunter,2023,"$9,835,881",ATL
+Onyeka Okongwu,2023,"$6,395,160",ATL
+AJ Griffin,2023,"$3,536,160",ATL
+Saddiq Bey,2023,"$2,959,080",ATL
+Jalen Johnson,2023,"$2,792,640",ATL
+Bruno Fernando,2023,"$2,717,391",ATL
+Garrison Mathews,2023,"$2,000,000",ATL
+Aaron Holiday,2023,"$1,836,090",ATL
+Vit Krejci,2023,"$1,563,518",ATL
+Tyrese Martin,2023,"$1,017,781",ATL
+Trent Forrest,2023,,ATL
+Donovan Williams,2023,,ATL
+Jimmy Butler,2023,"$37,653,300",MIA
+Bam Adebayo,2023,"$30,351,780",MIA
+Kyle Lowry,2023,"$28,333,334",MIA
+Duncan Robinson,2023,"$16,902,000",MIA
+Victor Oladipo,2023,"$8,750,000",MIA
+Caleb Martin,2023,"$6,479,000",MIA
+Tyler Herro,2023,"$5,722,116",MIA
+Kevin Love,2023,"$3,114,138",MIA
+Nikola Jović,2023,"$2,239,920",MIA
+Udonis Haslem,2023,"$1,836,090",MIA
+Max Strus,2023,"$1,815,677",MIA
+Gabe Vincent,2023,"$1,815,677",MIA
+Haywood Highsmith,2023,"$1,752,638",MIA
+Omer Yurtseven,2023,"$1,752,638",MIA
+Cody Zeller,2023,"$517,060",MIA
+Jamal Cain,2023,,MIA
+Orlando Robinson,2023,,MIA
+Rudy Gobert,2023,"$38,172,414",MIN
+Karl-Anthony Towns,2023,"$33,833,400",MIN
+Mike Conley,2023,"$22,680,000",MIN
+Anthony Edwards,2023,"$10,733,400",MIN
+Kyle Anderson,2023,"$8,780,488",MIN
+Taurean Prince,2023,"$7,295,000",MIN
+Nickeil Alexander-Walker,2023,"$5,009,633",MIN
+Wendell Moore Jr.,2023,"$2,306,520",MIN
+Jaden McDaniels,2023,"$2,161,440",MIN
+Jordan McLaughlin,2023,"$2,160,000",MIN
+Jaylen Nowell,2023,"$1,930,681",MIN
+Naz Reid,2023,"$1,930,681",MIN
+Nathan Knight,2023,"$1,836,090",MIN
+Austin Rivers,2023,"$1,836,090",MIN
+Josh Minott,2023,"$1,017,781",MIN
+Luka Garza,2023,,MIN
+Matt Ryan,2023,,MIN
+,2023,,MIN
+Bryn Forbes,2023,"$1,836,090",MIN
+Jonathan Isaac,2023,"$17,400,000",ORL
+Markelle Fultz,2023,"$16,500,000",ORL
+Wendell Carter Jr.,2023,"$14,150,000",ORL
+Gary Harris,2023,"$13,000,000",ORL
+Paolo Banchero,2023,"$11,055,120",ORL
+Jalen Suggs,2023,"$6,922,320",ORL
+Franz Wagner,2023,"$5,258,280",ORL
+Cole Anthony,2023,"$3,613,680",ORL
+Chuma Okeke,2023,"$3,433,320",ORL
+Bol Bol,2023,"$2,200,000",ORL
+Caleb Houstan,2023,"$2,000,000",ORL
+Moritz Wagner,2023,"$1,878,720",ORL
+Michael Carter-Williams,2023,"$652,829",ORL
+Goga Bitadze,2023,"$612,181",ORL
+Admiral Schofield,2023,"$506,508",ORL
+Kevon Harris,2023,,ORL
+,2023,,ORL
+Patrick Beverley,2023,"$13,000,000",ORL
+Terrence Ross,2023,"$11,500,000",ORL
+R.J. Hampton,2023,"$2,412,840",ORL
+Devin Cannady,2023,"$1,752,638",ORL
+Myles Turner,2023,"$35,069,500",IND
+Buddy Hield,2023,"$21,177,750",IND
+Daniel Theis,2023,"$8,694,369",IND
+T.J. McConnell,2023,"$8,100,000",IND
+Bennedict Mathurin,2023,"$6,586,800",IND
+Jalen Smith,2023,"$4,670,160",IND
+Tyrese Haliburton,2023,"$4,215,120",IND
+George Hill,2023,"$4,000,000",IND
+Chris Duarte,2023,"$3,936,960",IND
+Aaron Nesmith,2023,"$3,804,360",IND
+Jordan Nwora,2023,"$2,800,000",IND
+Isaiah Jackson,2023,"$2,573,760",IND
+James Johnson,2023,"$2,427,016",IND
+Andrew Nembhard,2023,"$2,244,111",IND
+Oshae Brissett,2023,"$1,846,738",IND
+Kendall Brown,2023,,IND
+Gabe York,2023,,IND
+,2023,,IND
+Goga Bitadze,2023,"$4,765,339",IND
+Serge Ibaka,2023,"$1,836,090",IND
+Terry Taylor,2023,"$1,563,518",IND
+Nik Stauskas,2023,"$702,311",IND
+Juwan Morgan,2023,"$576,230",IND
+Malik Fitts,2023,"$555,217",IND
+Kevin Durant,2023,"$44,119,845",PHO
+Devin Booker,2023,"$33,833,400",PHO
+Deandre Ayton,2023,"$30,913,750",PHO
+Chris Paul,2023,"$28,400,000",PHO
+Landry Shamet,2023,"$9,500,000",PHO
+Cameron Payne,2023,"$6,000,000",PHO
+Torrey Craig,2023,"$5,121,951",PHO
+Darius Bazley,2023,"$4,264,629",PHO
+Bismack Biyombo,2023,"$1,836,090",PHO
+Damion Lee,2023,"$1,836,090",PHO
+Josh Okogie,2023,"$1,836,090",PHO
+T.J. Warren,2023,"$1,836,090",PHO
+Jock Landale,2023,"$1,563,518",PHO
+Terrence Ross,2023,"$580,373",PHO
+Ish Wainright,2023,"$474,851",PHO
+Saben Lee,2023,,PHO
+Pascal Siakam,2023,"$35,448,672",TOR
+Fred VanVleet,2023,"$21,250,000",TOR
+Gary Trent Jr.,2023,"$17,505,000",TOR
+OG Anunoby,2023,"$17,357,143",TOR
+Chris Boucher,2023,"$12,690,000",TOR
+Jakob Poeltl,2023,"$9,398,148",TOR
+Thaddeus Young,2023,"$8,000,000",TOR
+Scottie Barnes,2023,"$7,644,600",TOR
+Otto Porter Jr.,2023,"$6,000,000",TOR
+Precious Achiuwa,2023,"$2,840,160",TOR
+Malachi Flynn,2023,"$2,145,720",TOR
+Dalano Banton,2023,"$1,563,518",TOR
+Christian Koloko,2023,"$1,500,000",TOR
+Joe Wieskamp,2023,"$545,989",TOR
+Will Barton,2023,"$432,642",TOR
+Ron Harper Jr.,2023,,TOR
+Jeff Dowtin,2023,,TOR
+,2023,,TOR
+Svi Mykhailiuk,2023,"$1,878,720",TOR
+Juancho Hernangómez,2023,"$1,836,090",TOR
+D.J. Wilson,2023,"$250,000",TOR
+De'Aaron Fox,2023,"$30,351,780",SAC
+Domantas Sabonis,2023,"$18,500,000",SAC
+Harrison Barnes,2023,"$18,352,273",SAC
+Kevin Huerter,2023,"$14,508,929",SAC
+Richaun Holmes,2023,"$11,215,260",SAC
+Malik Monk,2023,"$9,472,219",SAC
+Keegan Murray,2023,"$8,008,440",SAC
+Davion Mitchell,2023,"$4,833,600",SAC
+Terence Davis,2023,"$4,000,000",SAC
+Alex Len,2023,"$3,918,600",SAC
+Trey Lyles,2023,"$2,625,000",SAC
+Chimezie Metu,2023,"$1,910,860",SAC
+Matthew Dellavedova,2023,"$1,836,090",SAC
+Kessler Edwards,2023,"$1,637,966",SAC
+PJ Dozier,2023,"$539,450",SAC
+Keon Ellis,2023,,SAC
+Neemias Queta,2023,,SAC
+,2023,,SAC
+KZ Okpala,2023,"$1,902,133",SAC
+Chima Moneke,2023,"$500,000",SAC
+Sam Merrill,2023,"$150,000",SAC
+Tobias Harris,2023,"$37,633,050",PHI
+Joel Embiid,2023,"$33,616,770",PHI
+James Harden,2023,"$33,000,000",PHI
+P.J. Tucker,2023,"$10,490,000",PHI
+De'Anthony Melton,2023,"$8,250,000",PHI
+Furkan Korkmaz,2023,"$5,000,000",PHI
+Danuel House Jr.,2023,"$4,105,000",PHI
+Georges Niang,2023,"$3,465,000",PHI
+Tyrese Maxey,2023,"$2,726,880",PHI
+Montrezl Harrell,2023,"$2,463,490",PHI
+Jaden Springer,2023,"$2,125,200",PHI
+Shake Milton,2023,"$1,997,718",PHI
+Jalen McDaniels,2023,"$1,930,681",PHI
+Paul Reed,2023,"$1,782,621",PHI
+Dewayne Dedmon,2023,"$580,373",PHI
+Mac McClung,2023,,PHI
+Louis King,2023,,PHI
+,2023,,PHI
+Trevelin Queen,2023,"$330,000",PHI
+Charles Bassey,2023,"$74,742",PHI
+Giannis Antetokounmpo,2023,"$42,492,492",MIL
+Khris Middleton,2023,"$37,948,276",MIL
+Jrue Holiday,2023,"$33,665,040",MIL
+Brook Lopez,2023,"$13,906,976",MIL
+Bobby Portis,2023,"$10,843,350",MIL
+Jae Crowder,2023,"$10,183,800",MIL
+Grayson Allen,2023,"$8,500,000",MIL
+Joe Ingles,2023,"$6,479,000",MIL
+Pat Connaughton,2023,"$5,728,393",MIL
+MarJon Beauchamp,2023,"$2,485,200",MIL
+Jevon Carter,2023,"$2,100,000",MIL
+Thanasis Antetokounmpo,2023,"$1,878,720",MIL
+Wesley Matthews,2023,"$1,836,090",MIL
+Goran Dragić,2023,"$390,433",MIL
+Meyers Leonard,2023,"$105,522",MIL
+Lindell Wigginton,2023,,MIL
+A.J. Green,2023,,MIL
+Paul George,2023,"$42,492,492",LAC
+Kawhi Leonard,2023,"$42,492,492",LAC
+Eric Gordon,2023,"$19,568,360",LAC
+Norman Powell,2023,"$16,758,621",LAC
+Marcus Morris,2023,"$16,372,093",LAC
+Robert Covington,2023,"$12,307,692",LAC
+Nicolas Batum,2023,"$10,843,350",LAC
+Ivica Zubac,2023,"$10,123,457",LAC
+Mason Plumlee,2023,"$9,080,417",LAC
+Amir Coffey,2023,"$3,395,062",LAC
+Bones Hyland,2023,"$2,201,520",LAC
+Terance Mann,2023,"$1,930,681",LAC
+Jason Preston,2023,"$1,563,518",LAC
+Brandon Boston Jr.,2023,"$1,563,518",LAC
+Russell Westbrook,2023,"$495,955",LAC
+Xavier Moon,2023,,LAC
+Moussa Diabaté,2023,,LAC
+Bojan Bogdanović,2023,"$19,550,000",DET
+Marvin Bagley III,2023,"$12,500,000",DET
+Cade Cunningham,2023,"$10,552,800",DET
+Alec Burks,2023,"$10,012,800",DET
+James Wiseman,2023,"$9,603,360",DET
+Jaden Ivey,2023,"$7,252,200",DET
+Killian Hayes,2023,"$5,837,760",DET
+Hamidou Diallo,2023,"$5,200,000",DET
+Cory Joseph,2023,"$5,155,500",DET
+Jalen Duren,2023,"$4,124,280",DET
+Isaiah Stewart,2023,"$3,433,320",DET
+Rodney McGruder,2023,"$1,836,090",DET
+Isaiah Livers,2023,"$1,563,518",DET
+R.J. Hampton,2023,"$485,403",DET
+Buddy Boeheim,2023,,DET
+Jared Rhoden,2023,,DET
+Eugene Omoruyi,2023,,DET
+,2023,,DET
+Nerlens Noel,2023,"$9,240,000",DET
+Kemba Walker,2023,"$9,165,471",DET
+DeAndre Jordan,2023,"$7,827,907",DET
+Dewayne Dedmon,2023,"$2,866,667",DET
+Stanley Umude,2023,"$58,493",DET
+Doug McDermott,2023,"$13,750,000",SAS
+Devonte' Graham,2023,"$11,550,000",SAS
+Zach Collins,2023,"$7,350,000",SAS
+Khem Birch,2023,"$6,667,500",SAS
+Romeo Langford,2023,"$5,634,257",SAS
+Jeremy Sochan,2023,"$5,063,520",SAS
+Devin Vassell,2023,"$4,437,000",SAS
+Keldon Johnson,2023,"$3,873,025",SAS
+Malaki Branham,2023,"$2,925,600",SAS
+Charles Bassey,2023,"$2,600,000",SAS
+Gorgui Dieng,2023,"$2,458,672",SAS
+Blake Wesley,2023,"$2,385,480",SAS
+Keita Bates-Diop,2023,"$1,878,720",SAS
+Tre Jones,2023,"$1,782,621",SAS
+Sandro Mamukelashvili,2023,"$357,717",SAS
+Julian Champagnie,2023,,SAS
+Dominick Barlow,2023,,SAS
+,2023,,SAS
+Danilo Gallinari,2023,"$13,000,000",SAS
+Dewayne Dedmon,2023,"$4,700,000",SAS
+Joshua Primo,2023,"$4,144,320",SAS
+Joe Wieskamp,2023,"$2,175,000",SAS
+Isaiah Roby,2023,"$1,930,681",SAS
+Stanley Johnson,2023,"$1,245,164",SAS
+Noah Vonleh,2023,"$1,160,955",SAS
+Alize Johnson,2023,"$192,293",SAS
+Collin Sexton,2023,"$16,500,000",UTA
+Lauri Markkanen,2023,"$16,475,454",UTA
+Jordan Clarkson,2023,"$13,340,000",UTA
+Kelly Olynyk,2023,"$12,804,878",UTA
+Talen Horton-Tucker,2023,"$10,260,000",UTA
+Rudy Gay,2023,"$6,184,500",UTA
+Ochai Agbaji,2023,"$3,918,360",UTA
+Simone Fontecchio,2023,"$3,205,128",UTA
+Walker Kessler,2023,"$2,696,400",UTA
+Damian Jones,2023,"$2,298,385",UTA
+Udoka Azubuike,2023,"$2,174,880",UTA
+Juan Toscano-Anderson,2023,"$1,836,090",UTA
+Kris Dunn,2023,"$735,819",UTA
+Johnny Juzang,2023,,UTA
+Vernon Carey Jr.,2023,,UTA
+Micah Potter,2023,,UTA
+Luka Šamanić,2023,,UTA
+,2023,,UTA
+Russell Westbrook,2023,"$47,063,478",UTA
+Leandro Bolmaro,2023,"$2,471,160",UTA
+Stanley Johnson,2023,"$2,351,521",UTA
+Saben Lee,2023,"$1,752,638",UTA
+Jared Butler,2023,"$1,563,518",UTA
+Kyrie Irving,2023,"$38,917,057",DAL
+Luka Dončić,2023,"$37,096,500",DAL
+Tim Hardaway Jr.,2023,"$19,602,273",DAL
+Dāvis Bertāns,2023,"$16,000,000",DAL
+Christian Wood,2023,"$14,317,459",DAL
+Dwight Powell,2023,"$11,080,125",DAL
+Reggie Bullock,2023,"$10,012,800",DAL
+Maxi Kleber,2023,"$9,000,000",DAL
+JaVale McGee,2023,"$5,461,219",DAL
+Josh Green,2023,"$3,098,400",DAL
+Frank Ntilikina,2023,"$2,036,318",DAL
+Markieff Morris,2023,"$1,836,090",DAL
+Theo Pinson,2023,"$1,836,090",DAL
+Jaden Hardy,2023,"$1,017,781",DAL
+Justin Holiday,2023,"$569,821",DAL
+McKinley Wright IV,2023,,DAL
+A.J. Lawson,2023,,DAL
+,2023,,DAL
+Kemba Walker,2023,"$684,712",DAL
+Bradley Beal,2023,"$43,279,250",WAS
+Kristaps Porziņģis,2023,"$33,833,400",WAS
+Kyle Kuzma,2023,"$13,000,000",WAS
+Monte Morris,2023,"$9,125,000",WAS
+Delon Wright,2023,"$7,804,878",WAS
+Kendrick Nunn,2023,"$5,250,000",WAS
+Deni Avdija,2023,"$4,916,160",WAS
+Johnny Davis,2023,"$4,810,320",WAS
+Corey Kispert,2023,"$3,552,840",WAS
+Daniel Gafford,2023,"$1,930,681",WAS
+Taj Gibson,2023,"$1,836,090",WAS
+Anthony Gill,2023,"$1,836,090",WAS
+Isaiah Todd,2023,"$1,575,000",WAS
+Jordan Goodwin,2023,"$900,000",WAS
+Xavier Cooks,2023,"$140,384",WAS
+Quenton Jackson,2023,,WAS
+Jay Huff,2023,,WAS
+,2023,,WAS
+Will Barton,2023,"$14,375,000",WAS
+Vernon Carey Jr.,2023,"$1,782,621",WAS
+Damian Lillard,2023,"$42,492,492",POR
+Anfernee Simons,2023,"$22,321,429",POR
+Jerami Grant,2023,"$20,955,000",POR
+Jusuf Nurkić,2023,"$15,625,000",POR
+Shaedon Sharpe,2023,"$6,012,960",POR
+Cam Reddish,2023,"$5,954,454",POR
+Matisse Thybulle,2023,"$4,379,527",POR
+Nassir Little,2023,"$4,171,548",POR
+Justise Winslow,2023,"$4,097,561",POR
+Kevin Knox,2023,"$3,000,000",POR
+Keon Johnson,2023,"$2,681,040",POR
+Drew Eubanks,2023,"$1,836,090",POR
+Trendon Watford,2023,"$1,563,518",POR
+Jabari Walker,2023,"$1,017,781",POR
+Ibou Badji,2023,,POR
+Jeenathan Williams,2023,,POR
+Skylar Mays,2023,,POR
+Chance Comanche,2023,,POR
+John Butler,2023,,POR
+,2023,,POR
+Andrew Nicholson,2023,"$2,844,430",POR
+Ryan Arcidiacono,2023,"$1,836,090",POR
+Greg Brown III,2023,"$1,563,518",POR
+Eric Bledsoe,2023,"$1,300,000",POR
+Didi Louzada,2023,"$268,032",POR
+Ben Simmons,2023,"$35,448,672",BRK
+Mikal Bridges,2023,"$20,100,000",BRK
+Spencer Dinwiddie,2023,"$19,500,000",BRK
+Joe Harris,2023,"$18,642,857",BRK
+Dorian Finney-Smith,2023,"$12,939,848",BRK
+Royce O'Neale,2023,"$9,200,000",BRK
+Nic Claxton,2023,"$8,500,000",BRK
+Seth Curry,2023,"$8,496,653",BRK
+Patty Mills,2023,"$6,479,000",BRK
+Cameron Johnson,2023,"$5,887,899",BRK
+Cam Thomas,2023,"$2,138,160",BRK
+Day'Ron Sharpe,2023,"$2,109,480",BRK
+Edmond Sumner,2023,"$1,968,175",BRK
+Yuta Watanabe,2023,"$1,836,090",BRK
+Dru Smith,2023,,BRK
+RaiQuan Gray,2023,,BRK
+David Duke Jr.,2023,,BRK
+,2023,,BRK
+Jevon Carter,2023,"$3,925,000",BRK
