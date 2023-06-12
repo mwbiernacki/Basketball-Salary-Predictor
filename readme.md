@@ -90,10 +90,10 @@ Below are the features available in the `modeling_dataset`:
 | Years Experience      | Int    | The number of years a player has been in the NBA (1 for rookies)            |
 
 ### Conclusions and Recommendations
-This stacked model can be used to evaluate player performance in a given season based on whether they underperformed or outperformed their salary. The model had an r^2 score of 77%. In addition, it can be used by general managers and player agents as a tool in negotiations. The model is biased towards overpredicting lower salaries and underpredicting higher salaries. This could be a limitation of the model, or it could be that star players are overpaid in the NBA (and )
+This stacked model can be used to evaluate player performance in a given season based on whether they underperformed or outperformed their salary. The model had an r^2 score of 77%. In addition, it can be used by general managers and player agents as a tool in negotiations. The model is biased towards overpredicting lower salaries and underpredicting higher salaries. This could be a limitation of the model, or it could be that star players are overpaid in the NBA. 
 
 More stats could be added, like per 36 minutes stats.
 Could cross validate salary data with another source.
-Experimentation with neural networks would be beneficial for potential improved results.
+Experimentation with neural networks could be beneficial for potential improved results.
 
 
